@@ -1,0 +1,6 @@
+A merge confilict occurred while merging 2 branches, test branch into the working branch.
+And the confilict was resolved by manually combining the changes from both braches in the README.md file. By doing so both the student ID and the git vesrion were included. This helps to mitigate the conflict.
+
+
+
+I have added brief discreption on those files.

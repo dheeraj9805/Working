@@ -1,0 +1,30 @@
+commit d856579a51554b7fa8f58b5d853234b4dbe32f1e
+Merge: 495ee2e 7818411
+Author: dhiraj yadav <dhirajyadav@dhirajs-mbp.mynetworksettings.com>
+Date:   Mon Jul 8 21:13:22 2024 -0400
+
+    Resolved merge conflict
+
+commit 495ee2e25980fe972ed5ed03852fb82126e91f99
+Author: dhiraj yadav <dhirajyadav@dhirajs-mbp.mynetworksettings.com>
+Date:   Mon Jul 8 21:11:01 2024 -0400
+
+    Added git version to README.md
+
+commit 7818411279076d2f323353760e10b0cf5f1631a9
+Author: dhiraj yadav <dhirajyadav@dhirajs-mbp.mynetworksettings.com>
+Date:   Mon Jul 8 21:07:08 2024 -0400
+
+    Added student ID to README.md
+
+commit 63cdb60a74c0d26a13204bd9de6f6cd860164d0b
+Author: dhiraj yadav <dhirajyadav@dhirajs-mbp.mynetworksettings.com>
+Date:   Mon Jul 8 20:50:44 2024 -0400
+
+    Modified file1.html with description
+
+commit 2e7e284f42b38b6eed8c39aab99b5af4bb3d9a20
+Author: dhiraj yadav <dhirajyadav@dhirajs-mbp.mynetworksettings.com>
+Date:   Mon Jul 8 20:34:39 2024 -0400
+
+    Modified file1.html with changes X
